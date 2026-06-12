@@ -4,5 +4,6 @@
 "Gameexcutetableversion":"2.*.*",
 "managed":"False","uuid":"D5E437E0-4156-4429-AAA1-EFC84840E20E",
 "permission":{},
-"Prerequisite runtime":{},
+"Prerequisite runtime":[],
+"Recommended runtime":[],
 "Genre":"RPG"}
